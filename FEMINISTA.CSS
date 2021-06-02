@@ -1,0 +1,59 @@
+body{
+	background-color: GREASE;
+	background-size: 100%;
+	background-clip: all;
+
+	background-position: center;
+}
+h1{font-family: Yatra;
+	font-size: 50px;
+	color:#9400D3;
+	text-align: center;
+	word-spacing: .3cm;
+	letter-spacing:.5cm;
+
+
+}
+
+hr{
+	width: 92%;
+	height: 20px;
+	border:solid;
+	border color:blue;
+	background:pink;
+	border-radius: 5cm;
+
+
+
+}
+h2{font-family: Yatra;
+	font-size: 30px;
+	color: #32CD32;
+	text-align: center;
+	word-spacing: .3cm;
+
+}
+
+p{
+	font-family:Arbutus;
+	font-size: 20px;
+	color: 	#48D1CC;
+	text-align: center;
+	letter-spacing:.10cm;
+	width:100%;
+	text-align: justify;
+
+}
+
+img{
+
+	float:left;
+	position:relative;
+	right: 5%; 
+
+
+
+
+}
+
+	
